@@ -13,3 +13,4 @@ When you click on the second section, you will be taken to a card view. After yo
 
 The third section is similar to the first. 
 
+Link to the Google Store: http://bit.ly/androidAppEvan
